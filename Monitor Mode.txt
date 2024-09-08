@@ -1,0 +1,19 @@
+Check if monitor mode is supported (win10)
+
+# cmd as admin
+
+# netsh
+
+# wlan show wirelesscapabitilies
+
+Check if monitor mode is supported (ubuntu linux)
+
+# iwconfig
+
+# sudo ifconfig interface down
+
+# sudo airmon-ng start interface
+
+# sudo airmon-ng stop interface
+
+# sudo ifconfig interface down
